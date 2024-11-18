@@ -3,7 +3,6 @@ public class person {
     private int age ;
     private  String address;
 
-    // عندك هون الconstructor افهم ايش بعمل
 
     public person (String name, int age, String address){
 
